@@ -1,0 +1,10 @@
+
+-------
+
+Construire une console de jeu open source fonctionnelle.
+
+Batterie integrée, et alimentation par cable.
+housse de transport avec outils du Studio Maloute DevKit.
+Brancher une manette en Bluetooth.
+Diffuser l'ecran de jeu.
+compatiblité au codes lua, python, C, et les librairies.
